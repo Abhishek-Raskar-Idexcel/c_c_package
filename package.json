@@ -1,28 +1,17 @@
 {
-  "name": "pr-convention-check",
-  "version": "1.0.1",
+  "name": "cc_check",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "node ./scripts/setupWorkflow.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Abhishek-Raskar-Idexcel/commit-convention-check.git"
   },
-  "description": "A GitHub Action for checking commit messages with commitlint",
-  "author": "Abhishek Raskar",
-  "keywords": [
-    "commitlint",
-    "github-action",
-    "conventional-commits"
-  ],
-  "files": [
-    "index.js",
-    "commitlint.config.js",
-    "README.md",
-    ".github",
-    "scripts"
-  ],
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Abhishek-Raskar-Idexcel/commit-convention-check/issues"
