@@ -1,6 +1,6 @@
 {
   "name": "pr-convention-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,4 +22,3 @@
     "@commitlint/config-conventional": "^19.7.1"
   }
 }
-
