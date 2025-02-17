@@ -36,4 +36,3 @@ fs.readdirSync(workflowSrcDir).forEach(file => {
     console.log(`Workflow file already exists and was not overwritten: ${file}`);
   }
 });
-
