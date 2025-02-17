@@ -1,6 +1,6 @@
 {
-  "name": "commit-convention-check",
-  "version": "1.0.1",
+  "name": "pr-convention-check",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
